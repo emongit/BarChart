@@ -1,7 +1,7 @@
 [
     {
         "name": "パターン１：＋ーー",
-        "code": "6758",
+        "code": "０００１",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -24,7 +24,7 @@
     },
     {
         "name": "パターン２：＋ー＋",
-        "code": "6758",
+        "code": "0002",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -47,7 +47,7 @@
     },
     {
         "name": "パターン３：＋＋＋",
-        "code": "6758",
+        "code": "0003",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -70,7 +70,7 @@
     },
     {
         "name": "パターン４：＋＋ー",
-        "code": "6758",
+        "code": "0004",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -116,7 +116,7 @@
     },
     {
         "name": "パターン１：＋ーー",
-        "code": "6758",
+        "code": "0005",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -139,7 +139,7 @@
     },
     {
         "name": "パターン６：ーー＋",
-        "code": "6758",
+        "code": "0006",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -162,7 +162,7 @@
     },
     {
         "name": "パターン７：ー＋＋",
-        "code": "6758",
+        "code": "0007",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
@@ -185,7 +185,7 @@
     },
     {
         "name": "パターン８：ーーー",
-        "code": "6758",
+        "code": "0008",
         "junShisan": 30374896,
         "koteShisan": 25090375,
         "ryudoShisan": 5284521,
